@@ -1,0 +1,1 @@
+This app will be built with React Native. It is an app for personal and friend use to have easier use looking up and keeping track of spells used in Dungeons & Dragons. This app serves and additional purpose of teaching me React Native.
